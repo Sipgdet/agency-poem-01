@@ -26,8 +26,8 @@ const POEM = [
   'That stays.',
   '',
   'The letters lean. The ink pools at the y.',
-  'It will take all evening, and it will be crooked,',
-  'and it will be mine — one uneven line at a time,',
+  'It will take all evening. It will be crooked.',
+  'It will be mine — one uneven line at a time,',
   'my thumbprint drying beside her name.',
 ].join('\n');
 
